@@ -1,0 +1,12 @@
+.btn btn-primary{
+  
+    padding: 6px;
+    margin: 20px;
+    margin-left: 1200px;
+    font-size: 15px;
+    color: #ffff;
+    background: gray;
+    border: none;
+    border-radius: 3px;
+  }
+}
